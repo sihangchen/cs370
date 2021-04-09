@@ -22,7 +22,7 @@ This application can only be used with an Android mobile device with an API of 2
 
 1. You will be taken to the list management page "My Lists". While initially blank, pressing on the "Create List" button at the bottom of the screen will allow your first list.
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/UManual1.png" alt="UManual1">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/1HOME%401x.png">
 
 
 
