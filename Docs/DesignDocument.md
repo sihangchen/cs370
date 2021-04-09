@@ -54,7 +54,7 @@ Described in usecase model.
 
 This design is subject to change, it is a temporary mockup to showcase the approximate appearance of the application. 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/1HOME%401x.png" alt="1">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/1HOME%401x.png" alt="1">
 
 [^]: This is the initial page home page the users sees when they initially launch the application.
 
@@ -66,7 +66,7 @@ This design is subject to change, it is a temporary mockup to showcase the appro
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/3USER%20LIST-DropDown%401x.png" alt="3">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/3USER%20LIST-DropDown%401x.png" alt="3">
 
 [^]: This is the dropdown menu from clicking the dots are shown here.
 
@@ -78,13 +78,13 @@ This design is subject to change, it is a temporary mockup to showcase the appro
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/5USER%20LIST-Rename%20List%401x.png" alt="5">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/5USER%20LIST-Rename%20List%401x.png" alt="5">
 
 [^]: This image shows how the user screen would look like if the user choose to rename the list from the dropdown.
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/6CREATE%20LIST%401x.png" alt="6">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/6CREATE%20LIST%401x.png" alt="6">
 
 [^]: This image shows the user creating a new list after they click on the orange button to add a new list. Where a new box appears to which promotes the user to enter a name for the new list. 
 
@@ -92,62 +92,61 @@ This design is subject to change, it is a temporary mockup to showcase the appro
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/7ADD%20ITEMS%401x.png" alt="7">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/7ADD%20ITEMS%401x.png" alt="7">
 
-[^]: In this page the user can view the items they previously added to the list. Furthermore, in this page the user will have the option to add new items using the orange button at the bottom of the screen. The three dots in the upper corner is a dropdown menu.
+[^]: In this page the user can view the items they previously added to the list. Furthermore, in this page the user will have the option to add new items by choosing add by category or add by name. The three dots in the upper corner is a dropdown menu.
 
  
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/8USER%20ITEM-DropDown%401x.png" alt="8">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/8USER%20ITEM-DropDown%401x.png" alt="8">
 
 [^]: This is the dropdown menu from clicking the dots from the item's page are shown here.
 
  
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/9USER%20ITEM-CheckOff%401x.png" alt="9">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/9USER%20ITEM-CheckOff%401x.png" alt="9">
 
 [^]: This image shows how the user screen would like if an item is checked marked.
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/10SEARCH%20ITEMS-Type%401x.png" alt="10">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/10SEARCH%20ITEMS-Type%401x.png" alt="10">
 
-[^]: This is the screen the user would see if they try to add items by clicking on the orange button sign from previous page also known as My List. 
-
-
-
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/11SEARCH%20ITEMS-Cereal%401x.png" alt="11">
-
-[^]: This is the next screen the user views when they click on a catagory from a previous page. They would have the option to choose from the selected, or can search.  
+[^]: This is the screen the user would see if they try to add items by clicking on the "By Category" from previous page also known as My List. 
 
 
 
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/11SEARCH%20ITEMS-Cereal%401x.png" alt="11">
+
+[^]: This is the next screen the user views when they click on a catagory from a previous page. They would have the option to choose from the item from the category.  
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/12SEARCH%20ITEM-Others%401x.png" alt="12">
-
-[^]: This is the next screen the user views when they click on the others catagory from a previous page. They would have the option to choose from the selected, or can search.
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/13SEARCH%20ITEM-Name%401x.png" alt="13">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/12SEARCH%20ITEM-Others%401x.png" alt="12">
+
+[^]: This is the next screen the user views when they click on the "By Name" from a previous page. They would have the option to search item name in the search bar or if no result was found, they can create new item using the button.
+
+
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/13SEARCH%20ITEM-Name%401x.png" alt="13">
 
 [^]: This image gives the user suggestions of items as the users inputs the item name. 
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/14ITEM%20NOT%20FOUND%401x.png" alt="14">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/14ITEM%20NOT%20FOUND%401x.png" alt="14">
 
 [^]: This image shows when a match is not found for the input given by the user, and the "CREATE ITEM" button would pop up allowing the user to create new item and add to the database. 
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/15ITEM%20DETAILS%401x.png" alt="15">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/15ITEM%20DETAILS%401x.png" alt="15">
 
 [^]: This image shows the screen the user sees when they try to create a new item to add to the database. 
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/16ITEM%20DETAILS_Example_Database%401x.png" alt="16">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/16ITEM%20DETAILS_Example_Database%401x.png" alt="16">
 
 [^]: This image shows when the user would click on the button the item would be added to the database and to the list with a default quantity of one. If the user would want to change the quantity they have to change it in the intem page. 
