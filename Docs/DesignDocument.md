@@ -60,7 +60,7 @@ This design is subject to change, it is a temporary mockup to showcase the appro
 
 
 
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/2USER%20LIST%401x.png" alt="2">
+<img src= "https://github.com/sihangchen/cs370/blob/main/Docs/Pictures/2USER%20LIST%401x.png" alt="2">
 
 [^]: In this page the user can view the lists they created previously. Furthermore, in this page the user will have the option to create new list using the orange button at the bottom of the screen. The three dots in the upper corner is a dropdown menu.
 
@@ -70,11 +70,6 @@ This design is subject to change, it is a temporary mockup to showcase the appro
 
 [^]: This is the dropdown menu from clicking the dots are shown here.
 
-
-
-<img src= "https://github.com/qc-se-spring2021/370Spring21Sec55Team1/blob/main/GroupProject/Docs/Pictures/4USER%20LIST-Select%20A%20List%401x.png" alt="4">
-
-[^]: This image shows how the user screen would look like if the list was check marked.
 
 
 
